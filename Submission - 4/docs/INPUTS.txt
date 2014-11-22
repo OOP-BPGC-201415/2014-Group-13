@@ -1,0 +1,25 @@
+use case name : Login :
+inputs : username , password and login as (student, retailer, admin)
+outputs : logs in to the profile or shows incorrect login.
+
+use case name : forgot password :
+inputs : username 
+outputs : type your changed password and tick the check box named "Changed" alongside .
+
+use case :Transactions :
+inputs : login -> actions -> Transactions
+outputs : displays latest transactions.
+
+use case : search :
+inputs : atleast one character of ID number or username.
+outputs : displays the result if account exists.
+
+use case : Recharge :
+inputs : login -> actions -> recharge -> amount to be recharged
+outputs : balance  gets updated accordingly.
+
+use case : email :
+inputs : some active transactions/ make payments
+outputs : confirmation mail sent to user's mail ID.
+
+

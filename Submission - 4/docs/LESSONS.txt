@@ -1,0 +1,19 @@
+Negatives of the group:
+
+*One of the group members, Sirish Kumar(2011A8PS136G) did not work at all, despite repeated reminders and requests.
+*Not everybody had a thorough knoledge of the Java and we found it difficult to pick up the language at a sufficient level for the project, given the time we had.
+*Only one member had enough exposure to understand the intricacies of the language and we had to rely on that member to help us with a chunk of the coding
+*We made the mistake of writing the code before we had a structured UML diagram. This lead to a lack of clarity
+
+Positives of the group:
+
+*We were able to identify the strengths and weaknesses of each member early on, apart from Sirish who gave no inclination about his inabilities
+*We were able to communicate efficiently.
+*The group dynamics were stable and we had a good rapport with each other and were able to help each other with our work
+
+What we would do differently:
+
+*Do a little more pre-project work with Java.
+*Come up with a comprehensive UML diagram before even starting the code.
+*Identify people like Sirish earlier and not depend on him to do work.
+
